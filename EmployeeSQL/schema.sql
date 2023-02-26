@@ -75,3 +75,4 @@ CREATE TABLE dept_manager(
 );
 SELECT * 
 FROM dept_manager;
+
